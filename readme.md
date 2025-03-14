@@ -23,7 +23,7 @@ Stock_Trade_Outlier_Analysis/
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Sriram-Merugu/Stock-Trade-Outlier-Analysis-using-Graph-Database
    cd Stock_Trade_Outlier_Analysis
    ```
 
