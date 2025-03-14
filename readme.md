@@ -17,7 +17,7 @@ Stock_Trade_Outlier_Analysis/
 ├── visualization.py       # Module with functions and Chart class for visualizations.
 └── create_graph.py        # Script to create nodes, consecutive and similar relationships in Neo4j.
 ```
-
+code is deployed in streamlit: https://stock-trade-outlier-analysis-using-graph-database-kusajaahmkwl.streamlit.app/
 ## Installation
 
 1. **Clone the Repository:**
